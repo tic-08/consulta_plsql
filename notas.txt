@@ -1,0 +1,5 @@
+#Instalacion de oracle base de datos
+Link para descargar: https://www.oracle.com/es/database/technologies/xe-downloads.html
+Base de datos de contenedor multinquilino: localhost:1521
+Base de datos de conexion: localhost:1521/XEPDB1
+URL de EM Express: https://localhost:5500/em 
